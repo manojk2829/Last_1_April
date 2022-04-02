@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="17874" started-at="2020-05-09T15:29:17Z" finished-at="2020-05-09T15:29:35Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="17874" started-at="2020-05-09T15:29:17Z" finished-at="2020-05-09T15:29:35Z">
+      <class name="baseMay.TestA">
+        <test-method status="PASS" signature="testA()[pri:0, instance:baseMay.TestA@2e222612]" name="testA" duration-ms="12372" started-at="2020-05-09T20:59:17Z" finished-at="2020-05-09T20:59:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testA -->
+        <test-method status="PASS" signature="tearDOwn()[pri:0, instance:baseMay.TestA@2e222612]" name="tearDOwn" is-config="true" duration-ms="5482" started-at="2020-05-09T20:59:29Z" finished-at="2020-05-09T20:59:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDOwn -->
+      </class> <!-- baseMay.TestA -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
